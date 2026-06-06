@@ -1,0 +1,14 @@
+panel,spec,channel,coef,ci_lo,ci_hi
+2a,Baseline (country+year FE),ocean,0.4362,0.3135,0.559
+2a,+ Same-basin weight,ocean,0.4366,0.3148,0.5585
+2a,+ Basin×year FE,ocean,0.4401,0.3031,0.5771
+2a,+ Cluster×year FE,ocean,0.4078,0.2692,0.5464
+2a,Baseline (country+year FE),geo,0.3824,0.2057,0.5591
+2a,+ Same-basin weight,geo,0.4402,0.2288,0.6517
+2a,+ Basin×year FE,geo,0.0822,-0.1656,0.33
+2a,+ Cluster×year FE,geo,-0.1398,-0.4044,0.1247
+2b,Baseline (2003–19),ocean,0.4558,0.326,0.5855
+2b,+ Own marine heatwave,ocean,0.4595,0.331,0.5881
+2b,+ Partner heatwave,ocean,0.462,0.3347,0.5893
+2b,− Upwelling nations,ocean,0.457,0.3108,0.6033
+2b,First-difference,ocean,0.4165,0.2548,0.5783

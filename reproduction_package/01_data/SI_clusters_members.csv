@@ -1,0 +1,12 @@
+cluster,name,n,members
+0,Western Indian Ocean / Arabian Sea,19,"AGO, ARE, BHR, DJI, ERI, IRQ, KEN, KWT, MDG, MOZ, MUS, NAM, OMN, QAT, SAU, SDN, SOM, TZA, ZAF"
+1,Mediterranean,19,"ALB, CYP, DZA, ESP, FRA, GRC, HRV, ISR, ITA, JOR, LBN, LBY, MAR, MLT, MNE, PRT, SVN, SYR, TUN"
+2,NW Africa,6,"GIN, GMB, LBR, MRT, SEN, SLE"
+3,SW/SE Atlantic & SW Pacific,6,"ARG, BRA, CHL, NZL, PER, URY"
+4,Wider Caribbean,11,"ATG, BRB, CUB, DMA, DOM, GRD, GUY, HTI, JAM, SUR, TTO"
+5,SE Asia / West Pacific,12,"AUS, BRN, FJI, IDN, MYS, PHL, PLW, PNG, SGP, SLB, VUT, WSM"
+6,NE Atlantic / North & Baltic Seas,14,"BEL, DEU, DNK, EST, FIN, GBR, IRL, ISL, LTU, LVA, NLD, NOR, POL, SWE"
+7,West Africa / Gulf of Guinea,8,"BEN, CMR, GAB, GHA, GNQ, NGA, STP, TGO"
+8,N Indian Ocean / Bay of Bengal,9,"BGD, CHN, IND, KHM, LKA, MMR, PAK, THA, VNM"
+9,NW Pacific (+ Black Sea),9,"BGR, CAN, GEO, JPN, KOR, ROU, RUS, UKR, USA"
+10,Gulf of Mexico / Central America,10,"BLZ, COL, CRI, ECU, GTM, HND, MEX, NIC, PAN, SLV"
