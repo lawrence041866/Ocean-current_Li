@@ -4,7 +4,7 @@
 
 Yiran Li (Graduate School of Economics, Kobe University)
 
-Target journal: *Nature Communications*. This package reproduces every number, figure and supplementary table in the manuscript from public data.
+This package reproduces every number, figure and supplementary table in the manuscript from public data.
 
 ---
 
